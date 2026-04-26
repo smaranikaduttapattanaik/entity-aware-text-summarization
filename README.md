@@ -54,7 +54,7 @@ Measures similarity between generated and reference summaries:
 ### 🔹 Entity Coverage
 Measures how many important entities from the original text are preserved in the summary.
 
-**Formula:**coverage = (# entities in summary ∩ original entities) / total original entities
+**Formula:**coverage = (entities in summary ∩ original entities) / total original entities
 
 ---
 
